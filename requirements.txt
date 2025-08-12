@@ -1,2 +1,5 @@
 streamlit
-pandas
+torch
+ultralytics
+Pillow
+numpy
